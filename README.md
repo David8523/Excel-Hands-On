@@ -21,7 +21,7 @@ GitHub doesn't support Excel file internal rendering and visualization, so to pr
 ### Course Summary
 Folder Name   | File Name | Preview Link |
 | :-------:   | :----:    | :----: |
-| Data Analysis with Excel Pivot Tables | IMDb Movie Database Analysis.xlsx | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1H0hwiztLoiJU2ak?e=j64424) |
+| Basic Excel Formulas & Functions | Iphone cases wholesale.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01HLO286z2GXg00g3?e=y6lBa7) |
 | Data Analysis with Excel Pivot Tables | Pivot Table Case Studies Solutions.xlsx | [_View this File_](https://sheet.zoho.com/sheet/published.do?rid=f7owk2258fe1d02004af082420527383db8b5) |
 |     |       |     |
 | Data Visualization Charts & Graphs | Basic Chart Types Hands on Practice.xlsx | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1Rjuj7A0LOhD3-B2?e=sYEo6u) | 
