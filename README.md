@@ -19,7 +19,7 @@ GitHub doesn't support Excel file internal rendering and visualization, so to pr
 [Course Link](https://www.udemy.com/course/business-data-analysis-excel/)
 
 ### Course Summary
-Folder Name   | File Name | Preview Link |
+Topic Name   | File Name | Preview Link |
 | :-------:   | :----:    | :----: |
 | Basic Excel Formulas & Functions | Iphone Cases Wholesale.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01HLO286z2GXg00g3?e=y6lBa7) |
 | Strings Manipulation  | RRHH data.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01HORCW5-wreZ3v01?e=I2iMg1) |
@@ -31,7 +31,7 @@ Folder Name   | File Name | Preview Link |
 [Course Link](https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/)
 
 ### Course Summary
-Folder Name   | File Name | Preview Link |
+Topic Name   | File Name | Preview Link |
 | :-------:   | :----:    | :----: |
 | name folder | file.xlxx | [_View this File_](link here) |
 
