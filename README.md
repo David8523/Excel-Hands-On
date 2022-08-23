@@ -33,5 +33,14 @@ Topic Name   | File Name | Preview Link |
 ### Course Summary
 Topic Name   | File Name | Preview Link |
 | :-------:   | :----:    | :----: |
-| name folder | file.xlxx | [_View this File_](link here) |
+| Pivot Table Analysis | IMDd-Movie-Database.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01H8KaCIK4A6YnVid?e=dVg4C5) |
+| Pivot Tables | Baseball Team Stats.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01Hn0Wl3ZGowyIH_m?e=ahCgHv) |
+| Pivot Tables | Daily Weather Conditions.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01HrzDsy0OZfYOkTV?e=z0E3Yq) |
+| Pivot Tables | San Diego Burrito Ratings.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01QAqZe3fAEwM-mgW?e=9xJnsC) |
+| Pivot Tables | San Francisco Salaries.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01QFzuY3M_UJZfErP?e=tNahaW) |
+| Pivot Tables | Shark Attack Records.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01HyO_r41K-hcMiqX?e=sKsQLP) |
+| Pivot Tables | Spartan Race Facebook Posts.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01H2EQsFVqCJoUM5c?e=rGOvCN) |
+| Pivot Tables | Stock Market Data.xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01HvuV6AFzdfUCfGA?e=P5kEhO) |
+| Pivot Tables | U.S. Voters (2012).xlsx | [_View this File_](https://1drv.ms/x/s!AsdtkJDGicO01H5BtahPgEw73sZH?e=MXsQCY) |
+
 
